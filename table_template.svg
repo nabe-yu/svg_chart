@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="900" viewBox="0 0 900 900">
+    <defs>
+      <clipPath id="clip-path">
+        <rect width="600" height="803" fill="none"/>
+      </clipPath>
+      <clipPath id="clip-Table">
+        <rect width="900" height="900"/>
+      </clipPath>
+    </defs>
+    <g id="Table" clip-path="url(#clip-Table)">
+      <rect width="900" height="900" fill="#fff"/>
+      <g id="Table-2" data-name="Table" transform="translate(150 49)" clip-path="url(#clip-path)">
+        <g id="グループ_1" data-name="グループ 1" transform="translate(-150 -49)">
+          <rect id="Rect_0" width="600" height="150" transform="translate(150 49)" fill="#fff" stroke="#1134c4" stroke-linejoin="round" stroke-width="3"/>
+          <text id="_text_0_" data-name="text_0" x="175" y="74" width="550" height="100" font-size="14" fill="purple" font-family="Meiryo">%text_0%</text>
+        </g>
+        <g id="グループ_1-2" data-name="グループ 1" transform="translate(-150 114)">
+          <rect id="Rect_0-2" data-name="Rect_0" width="600" height="150" transform="translate(150 49)" fill="#fff" stroke="#1134c4" stroke-linejoin="round" stroke-width="3"/>
+          <text id="_text_0_2" data-name="text_1" transform="translate(175 74)" font-size="14"  font-family="Meiryo" ><tspan>%text_1%</tspan></text>
+        </g>
+        <g id="グループ_1-3" data-name="グループ 1" transform="translate(-150 277)">
+          <rect id="Rect_0-3" data-name="Rect_0" width="600" height="150" transform="translate(150 49)" fill="#fff" stroke="#1134c4" stroke-linejoin="round" stroke-width="3"/>
+          <text id="_text_0_3" data-name="text_2" transform="translate(175 74)" font-size="14"  font-family="Meiryo"><tspan>%text_2%</tspan></text>
+        </g>
+        <g id="グループ_1-4" data-name="グループ 1" transform="translate(-150 440)">
+          <rect id="Rect_0-4" data-name="Rect_0" width="600" height="150" transform="translate(150 49)" fill="#fff" stroke="#1134c4" stroke-linejoin="round" stroke-width="3"/>
+          <text id="_text_0_4" data-name="text_3" transform="translate(175 74)" font-size="14"  font-family="Meiryo"><tspan>%text_3%</tspan></text>
+        </g>
+        <g id="グループ_1-5" data-name="グループ 1" transform="translate(-150 603)">
+          <rect id="Rect_0-5" data-name="Rect_0" width="600" height="150" transform="translate(150 49)" fill="#fff" stroke="#1134c4" stroke-linejoin="round" stroke-width="3"/>
+          <text id="_text_0_5" data-name="text_4" transform="translate(175 74)" font-size="14"  font-family="Meiryo"><tspan>%text_4%</tspan></text>
+        </g>
+      </g>
+    </g>
+  </svg>
+  
