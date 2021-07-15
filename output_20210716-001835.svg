@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="900" viewBox="0 0 900 900">
+    <defs>
+        <clipPath id="clip-RadarChart">
+            <rect width="900" height="900" />
+        </clipPath>
+    </defs>
+    <g id="RadarChart" clip-path="url(#clip-RadarChart)">
+        <rect width="900" height="900" fill="#fff" />
+        <g id="Circles">
+            <circle id="Circle_5" cx="400" cy="400" r="400" transform="translate(50 50)" fill="#e6afaf" />
+            <circle id="Circle_4" cx="320" cy="320" r="320" transform="translate(121 130)" fill="#e6c9af" />
+            <circle id="Circle_3" cx="240" cy="240" r="240" transform="translate(210 210)" fill="#afe0e6" />
+            <circle id="Circle_2" cx="160" cy="160" r="160" transform="translate(290 290)" fill="#c5e6af" />
+            <circle id="Circle_1" cx="80" cy="80" r="80" transform="translate(370 370)" fill="#afc5e6" />
+        </g>
+        <g id="Lines">
+            <line id="Line_8" y2="850" transform="translate(612.64 842.649) rotate(157.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_7" y2="850" transform="translate(750.52 750.52) rotate(135)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_6" y2="850" transform="translate(842.649 612.64) rotate(112.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_5" y2="850" transform="translate(875 450) rotate(90)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_4" y2="850" transform="translate(842.649 287.36) rotate(67.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_3" y2="850" transform="translate(750.52 149.48) rotate(45)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_2" y2="850" transform="translate(612.64 57.351) rotate(22.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_1" y2="850" transform="translate(450 25)" fill="none" stroke="#fff" stroke-width="3" />
+        </g>
+        <circle id="Point_0" cx="10" cy="10" r="10" transform="translate(600.0 440.0)" fill="#707070" />
+        <circle id="Point_1" cx="10" cy="10" r="10" transform="translate(513.91 470.615)" fill="#707070" />
+        <circle id="Point_2" cx="10" cy="10" r="10" transform="translate(666.274 666.274)" fill="#707070" />
+        <circle id="Point_3" cx="10" cy="10" r="10" transform="translate(501.229 587.821)" fill="#707070" />
+        <circle id="Point_4" cx="10" cy="10" r="10" transform="translate(440.0 760.0)" fill="#707070" />
+        <circle id="Point_5" cx="10" cy="10" r="10" transform="translate(317.541 735.641)" fill="#707070" />
+        <circle id="Point_6" cx="10" cy="10" r="10" transform="translate(157.157 722.843)" fill="#707070" />
+        <circle id="Point_7" cx="10" cy="10" r="10" transform="translate(144.359 562.459)" fill="#707070" />
+        <circle id="Point_8" cx="10" cy="10" r="10" transform="translate(200.0 440.0)" fill="#707070" />
+        <circle id="Point_9" cx="10" cy="10" r="10" transform="translate(292.179 378.771)" fill="#707070" />
+        <circle id="Point_10" cx="10" cy="10" r="10" transform="translate(213.726 213.726)" fill="#707070" />
+        <circle id="Point_11" cx="10" cy="10" r="10" transform="translate(286.927 70.448)" fill="#707070" />
+        <circle id="Point_12" cx="10" cy="10" r="10" transform="translate(440.0 40.0)" fill="#707070" />
+        <circle id="Point_13" cx="10" cy="10" r="10" transform="translate(562.459 144.359)" fill="#707070" />
+        <circle id="Point_14" cx="10" cy="10" r="10" transform="translate(609.706 270.294)" fill="#707070" />
+        <circle id="Point_15" cx="10" cy="10" r="10" transform="translate(809.552 286.927)" fill="#707070" />
+        <path d="M 610.0 450.0 L 523.91 480.615" stroke="#707070" stroke-width="3" />
+        <path d="M 523.91 480.615 L 676.274 676.274" stroke="#707070" stroke-width="3" />
+        <path d="M 676.274 676.274 L 511.229 597.821" stroke="#707070" stroke-width="3" />
+        <path d="M 511.229 597.821 L 450.0 770.0" stroke="#707070" stroke-width="3" />
+        <path d="M 450.0 770.0 L 327.541 745.641" stroke="#707070" stroke-width="3" />
+        <path d="M 327.541 745.641 L 167.157 732.843" stroke="#707070" stroke-width="3" />
+        <path d="M 167.157 732.843 L 154.359 572.459" stroke="#707070" stroke-width="3" />
+        <path d="M 154.359 572.459 L 210.0 450.0" stroke="#707070" stroke-width="3" />
+        <path d="M 210.0 450.0 L 302.179 388.771" stroke="#707070" stroke-width="3" />
+        <path d="M 302.179 388.771 L 223.726 223.726" stroke="#707070" stroke-width="3" />
+        <path d="M 223.726 223.726 L 296.927 80.448" stroke="#707070" stroke-width="3" />
+        <path d="M 296.927 80.448 L 450.0 50.0" stroke="#707070" stroke-width="3" />
+        <path d="M 450.0 50.0 L 572.459 154.359" stroke="#707070" stroke-width="3" />
+        <path d="M 572.459 154.359 L 619.706 280.294" stroke="#707070" stroke-width="3" />
+        <path d="M 619.706 280.294 L 819.552 296.927" stroke="#707070" stroke-width="3" />
+        <path d="M 819.552 296.927 L 610.0 450.0" stroke="#707070" stroke-width="3" />
+    </g>
+</svg>

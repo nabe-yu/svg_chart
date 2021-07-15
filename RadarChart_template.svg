@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="900" viewBox="0 0 900 900">
+    <defs>
+        <clipPath id="clip-RadarChart">
+            <rect width="900" height="900" />
+        </clipPath>
+    </defs>
+    <g id="RadarChart" clip-path="url(#clip-RadarChart)">
+        <rect width="900" height="900" fill="#fff" />
+        <g id="Circles">
+            <circle id="Circle_5" cx="400" cy="400" r="400" transform="translate(50 50)" fill="#e6afaf" />
+            <circle id="Circle_4" cx="320" cy="320" r="320" transform="translate(121 130)" fill="#e6c9af" />
+            <circle id="Circle_3" cx="240" cy="240" r="240" transform="translate(210 210)" fill="#afe0e6" />
+            <circle id="Circle_2" cx="160" cy="160" r="160" transform="translate(290 290)" fill="#c5e6af" />
+            <circle id="Circle_1" cx="80" cy="80" r="80" transform="translate(370 370)" fill="#afc5e6" />
+        </g>
+        <g id="Lines">
+            <line id="Line_8" y2="850" transform="translate(612.64 842.649) rotate(157.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_7" y2="850" transform="translate(750.52 750.52) rotate(135)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_6" y2="850" transform="translate(842.649 612.64) rotate(112.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_5" y2="850" transform="translate(875 450) rotate(90)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_4" y2="850" transform="translate(842.649 287.36) rotate(67.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_3" y2="850" transform="translate(750.52 149.48) rotate(45)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_2" y2="850" transform="translate(612.64 57.351) rotate(22.5)" fill="none" stroke="#fff" stroke-width="3" />
+            <line id="Line_1" y2="850" transform="translate(450 25)" fill="none" stroke="#fff" stroke-width="3" />
+        </g>
+      %points%
+    </g>
+</svg>
