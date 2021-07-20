@@ -8,7 +8,7 @@
         <rect width="900" height="900" fill="#fff" />
         <g id="Circles">
             <circle id="Circle_5" cx="400" cy="400" r="400" transform="translate(50 50)" fill="#e6afaf" />
-            <circle id="Circle_4" cx="320" cy="320" r="320" transform="translate(121 130)" fill="#e6c9af" />
+            <circle id="Circle_4" cx="320" cy="320" r="320" transform="translate(130 130)" fill="#e6c9af" />
             <circle id="Circle_3" cx="240" cy="240" r="240" transform="translate(210 210)" fill="#afe0e6" />
             <circle id="Circle_2" cx="160" cy="160" r="160" transform="translate(290 290)" fill="#c5e6af" />
             <circle id="Circle_1" cx="80" cy="80" r="80" transform="translate(370 370)" fill="#afc5e6" />
